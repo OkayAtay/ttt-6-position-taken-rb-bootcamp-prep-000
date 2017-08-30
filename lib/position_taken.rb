@@ -1,6 +1,7 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 def position_taken?(board,index)
-if array(index) == " "
+if board(index) == " "
   false
 end
 end
